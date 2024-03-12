@@ -9,8 +9,8 @@
 - 🔭 I’m currently working as a - Frontend Developer(ASDE) at The skytrails
  
 - 👨‍💻 My Portfolio - **[Rachna Rajak](https://rachnarajaka.vercel.app/)**
-  
-- 📄 Resume Click Here
+ 
+- 📄 Resume Click Here -**[Rachna Rajak ](https://drive.google.com/file/d/1GC-_XMB-dVMELT5c_zvibjQ0XbLR0kVO/view?usp=drive_link)**
 
 - 📫 How to reach me **rachnarajak040@gmail.com**
 
