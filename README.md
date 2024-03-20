@@ -10,7 +10,7 @@
  
 - 👨‍💻 My Portfolio - **[Rachna Rajak](https://rachnarajaka.vercel.app/)**
  
-- 📄 Resume Click Here -**[Rachna Rajak ](https://drive.google.com/file/d/1GC-_XMB-dVMELT5c_zvibjQ0XbLR0kVO/view?usp=drive_link)**
+- 📄 Resume Click Here -**[Rachna Rajak ](https://drive.google.com/file/d/11NOct1WvtORClnxCiut817OBPufn-Txy/view?usp=sharing)**
 
 - 📫 How to reach me **rachnarajak040@gmail.com**
 
